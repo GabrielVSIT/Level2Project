@@ -18,6 +18,7 @@ function functions_generator(){
 			echo $arr;
 		}
 	}
+	tove e github hoho glory glory man united 
 }
 functions_generator();
 
