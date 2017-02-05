@@ -19,6 +19,8 @@ function functions_generator(){
 		}
 	}
 	tove e github hoho glory glory man united 
+		$A[$i][$j];
+	$A[$i][$j];
 }
 functions_generator();
 
